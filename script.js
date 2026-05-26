@@ -1,5 +1,5 @@
 // =========================================
-//  ESOTÉ DECOR — Landing Page Script
+//  ESOTÉ AROMAS — Landing Page Script
 // =========================================
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Build WhatsApp message
     const msg = encodeURIComponent(
-      `Olá! Vim pela landing page da ESOTÉ DECOR.\n\n` +
+      `Olá! Vim pela landing page da ESOTÉ AROMAS.\n\n` +
       `*Nome:* ${nome}\n` +
       `*WhatsApp:* ${whatsapp}\n` +
       `*Empresa:* ${empresa}\n\n` +
