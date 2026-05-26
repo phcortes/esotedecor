@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Open WhatsApp (update number as needed)
     setTimeout(() => {
-      window.open(`https://wa.me/5521999999999?text=${msg}`, '_blank');
+      window.open(`https://wa.me/5521978829680?text=${msg}`, '_blank');
     }, 800);
   });
 
