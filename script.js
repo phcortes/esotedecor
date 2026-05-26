@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
       `*Nome:* ${nome}\n` +
       `*WhatsApp:* ${whatsapp}\n` +
       `*Empresa:* ${empresa}\n\n` +
-      `Gostaria de solicitar um orçamento personalizado! 🌿`
+      `Gostaria de solicitar um orçamento personalizado! ✨`
     );
 
     // Show success
